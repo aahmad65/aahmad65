@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aidan! <br/><a href="https://github.com/aahmad65">Programmer</a>
+<h1>Hi, I'm Aidan! <br/><a href="https://github.com/aahmad65">Programmer, </a> Pet Lover, and Avid Dungeons and Dragons Player
 
 <h2> Projects for the 2022-2023 School Year at Seattle University:</h2>
 
