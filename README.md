@@ -19,6 +19,10 @@
   - [TravelSU Website](https://github.com/mnzarn/TravelSU-WebApp)
   - [DMs Tavern](https://github.com/aahmad65/DMsTavern)
 
+<h2> Projects for the 2023-2024 School Year at Seattle University:</h2>
+
+- <b>Nothing to put here yet but I am currently doing Object-Oriented Development in C++ and C#. This will be updated!</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="aahmad65 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
