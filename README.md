@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Aidan! <br/><a href="https://github.com/aahmad65">Programmer</a>
 
-<!--
-**aahmad65/aahmad65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Projects for the 2022-2023 School Year at Seattle University:</h2>
 
-Here are some ideas to get you started:
+- <b>Fall Quarter Projects, 2022 at SU (Intro to Programming I)</b>
+  - [P1-P5](https://github.com/aahmad65/FQ22_SU_PROJECTS)
+- <b>Winter Quarter Projects, 2023 at SU (Intro to Programming II)</b>
+  - [P1-P5](https://github.com/aahmad65/WQ23_SU_PROJECTS)
+- <b>Spring Quarter Projects, 2023 at SU (Data Structures)</b>
+  - [P1-P5](https://github.com/aahmad65/SQ23_SU_PROJECTS)
+ 
+<h2> Projects for the 2023-2024 School Year at Seattle University:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Fall Quarter Projects, 2023 at SU (Foundations of Computer Science)</b>
+  - [P2 & P4](https://github.com/aahmad65/FQ23_SU_PROJECTS)
+- <b>Winter Quarter Projects, 2024 at SU (Fundamentals of Databases)</b>
+  - This quarter and class was all about MySQL and a bit of HTML and PHP. I do not have the files for these projects but I do have a foundation for MySQL.
+- <b>Spring Quarter Projects, 2024 at SU (Art of Web Design)</b>
+  - [TravelSU Website](https://github.com/mnzarn/TravelSU-WebApp)
+  - [DMs Tavern](https://github.com/aahmad65/DMsTavern)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="aahmad65 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aidanlovesducks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/aidanlovesducks/
+[linkedin]: https://linkedin.com/in/aidan-ahmad
