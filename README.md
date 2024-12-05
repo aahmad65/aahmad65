@@ -19,7 +19,7 @@
   - [TravelSU Website](https://github.com/mnzarn/TravelSU-WebApp)
   - [DMs Tavern](https://github.com/aahmad65/DMsTavern)
 
-<h2> Projects for the 2023-2024 School Year at Seattle University:</h2>
+<h2> Projects for the 2024-2025 School Year at Seattle University:</h2>
 
 - <b>Fall Quarter Projects, 2024 at SU (Object-Oriented Programming)</b>
   - [Message Stream](https://github.com/aahmad65/FQ24_SU_PROJECTS)
