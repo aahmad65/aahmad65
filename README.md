@@ -21,7 +21,8 @@
 
 <h2> Projects for the 2023-2024 School Year at Seattle University:</h2>
 
-- <b>Nothing to put here yet but I am currently doing Object-Oriented Development in C++ and C#. This will be updated!</b>
+- <b>Fall Quarter Projects, 2024 at SU (Object-Oriented Programming)</b>
+  - [Message Stream](https://github.com/aahmad65/FQ24_SU_PROJECTS)
 
 <h2> 🤳 Connect with me:</h2>
 
